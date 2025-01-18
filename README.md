@@ -17,7 +17,6 @@ This project is suitable for students, educators, and professionals looking for 
 
 <div align="center">
     <img src="Rachet%20%26%20Pawl%20Mechanism%201.JPG" alt="Rachet & Pawl Mechanism" width="60%" height="60%"> 
-    <img src="Rachet%20%26%20Pawl%20Mechanism%20%1%201.JPG" alt="Rachet & Pawl Mechanism 1" width="60%" height="60%">
 </div>  
 
 ---
